@@ -1,0 +1,6 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto; /* Ortalamak için */
+  padding-left: 40px; /* Soldan biraz boşluk bırakır */
+  padding-right: 20px; /* Sağda da dengeli boşluk */
+}

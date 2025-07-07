@@ -1,0 +1,11 @@
+.section {
+  margin-bottom: 24px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.title {
+  margin-bottom: 12px;
+  font-size: 20px;
+}
